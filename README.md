@@ -11,9 +11,7 @@ O arquivo `inputs/sentences.txt` contém frases para análise.
 - `"A experiência foi incrível, recomendo!"` → **Positivo** 🟢
 - `"Não gostei, achei ruim."` → **Negativo** 🔴
 
-## 📊 Prints da Análise (Exemplo)
-Aqui estão prints fictícios para representar a análise realizada:
-
+## 📊 Prints da Análise
 📌 **Entrada das frases no Azure AI Language Studio**  
 https://via.placeholder.com/600x300?text=Entrada+das+Sentenças)
 
